@@ -1,0 +1,172 @@
+[
+  {
+    "track": "Q1",
+    "ticket_id": "T-1001",
+    "action": "REFUND",
+    "kb_article": "returns-within-30-days",
+    "total_points": 1854,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input_tokens": 388,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 388,
+        "output_tokens": 46,
+        "points": 1854
+      }
+    ]
+  },
+  {
+    "track": "Q1",
+    "ticket_id": "T-1002",
+    "action": "SEND_ARTICLE",
+    "kb_article": "digital-license-no-refund",
+    "total_points": 1731,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input_tokens": 382,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 382,
+        "output_tokens": 39,
+        "points": 1731
+      }
+    ]
+  },
+  {
+    "track": "Q1",
+    "ticket_id": "T-1003",
+    "action": "ESCALATE_TIER2",
+    "kb_article": "custom-items-no-replace",
+    "total_points": 1692,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input_tokens": 369,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 369,
+        "output_tokens": 39,
+        "points": 1692
+      }
+    ]
+  },
+  {
+    "track": "Q1",
+    "ticket_id": "T-1004",
+    "action": "REPLACE",
+    "kb_article": "damage-replacement-7-days",
+    "total_points": 1653,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input_tokens": 371,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 371,
+        "output_tokens": 36,
+        "points": 1653
+      }
+    ]
+  },
+  {
+    "track": "Q1",
+    "ticket_id": "T-1091",
+    "action": "SEND_ARTICLE",
+    "kb_article": "subscription-cooling-off",
+    "total_points": 1695,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input_tokens": 375,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 375,
+        "output_tokens": 38,
+        "points": 1695
+      }
+    ]
+  },
+  {
+    "track": "Q2",
+    "ticket_id": "T-1001",
+    "action": "REFUND",
+    "kb_article": "returns-within-30-days",
+    "total_points": 1515,
+    "calls": [
+      {
+        "label": "compose",
+        "input_tokens": 275,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 275,
+        "output_tokens": 46,
+        "points": 1515
+      }
+    ]
+  },
+  {
+    "track": "Q2",
+    "ticket_id": "T-1002",
+    "action": "SEND_ARTICLE",
+    "kb_article": "digital-license-no-refund",
+    "total_points": 1389,
+    "calls": [
+      {
+        "label": "compose",
+        "input_tokens": 268,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 268,
+        "output_tokens": 39,
+        "points": 1389
+      }
+    ]
+  },
+  {
+    "track": "Q2",
+    "ticket_id": "T-1003",
+    "action": "ESCALATE_TIER2",
+    "kb_article": "custom-items-no-replace",
+    "total_points": 1461,
+    "calls": [
+      {
+        "label": "compose",
+        "input_tokens": 292,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 292,
+        "output_tokens": 39,
+        "points": 1461
+      }
+    ]
+  },
+  {
+    "track": "Q2",
+    "ticket_id": "T-1004",
+    "action": "REPLACE",
+    "kb_article": "damage-replacement-7-days",
+    "total_points": 1314,
+    "calls": [
+      {
+        "label": "compose",
+        "input_tokens": 258,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 258,
+        "output_tokens": 36,
+        "points": 1314
+      }
+    ]
+  },
+  {
+    "track": "Q2",
+    "ticket_id": "T-1091",
+    "action": "SEND_ARTICLE",
+    "kb_article": "subscription-cooling-off",
+    "total_points": 1371,
+    "calls": [
+      {
+        "label": "compose",
+        "input_tokens": 267,
+        "cached_input_tokens": 0,
+        "uncached_input_tokens": 267,
+        "output_tokens": 38,
+        "points": 1371
+      }
+    ]
+  }
+]
